@@ -1,1 +1,1 @@
-# Agente-Inteligente-de-Ingenier-a-de-Requisitos
+# [WIP] Agente Inteligente usando el modelo RAG para interpretacion hacia casos de Uso
